@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+            android:id="@+id/item_account"
+            android:title="My Account" />
+        <item
+            android:id="@+id/item_orders"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/item_category"
+            android:title="Shop by Category" />
+    </group>
+
+    <item
+        android:id="@+id/item_settings"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/item_help"
+        android:title="Need Help" />
+
+    <item
+        android:id="@+id/item_rate_app"
+        android:title="Rate our App" />
+
+    <item
+        android:id="@+id/item_logout"
+        android:title="Logout" />
+
+</menu>
